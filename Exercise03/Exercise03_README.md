@@ -83,3 +83,8 @@ of the IP address on the switch is only related to network management.
 
 ![alt text](08-1.png)
 
+![alt text](09-1.png)
+
+![alt text](10-1.png)
+
+![alt text](11-1.png)
