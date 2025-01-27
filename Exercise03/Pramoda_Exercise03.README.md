@@ -2,7 +2,7 @@
  
 Pramoda Medis, PramoGIT, pramoda.medis@student.hamk.fi
 
-# Exercise 01
+# Exercise 03
 ## Getting to know the Cisco learning environment and packet tracer
 
 
@@ -51,16 +51,10 @@ Pramoda Medis, PramoGIT, pramoda.medis@student.hamk.fi
 
 
 ## Find below the screenshots of the same,
-![alt text](image01.png)
+![alt text](image01-1.png)
 
-![alt text](image02.png)
+![alt text](image02-1.png)
 
-![alt text](image03.png)
+![alt text](image03-1.png)
 
-![alt text](image04.png)
-
-![alt text](image05.png)
-
-![alt text](image06.png)
-
-![alt text](image07.png)
+![alt text](image04.
